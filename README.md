@@ -12,8 +12,8 @@ git clone https://github.com/asimcule/Password.git
 ```sh
 python random_password_generator.py
 ```
-              OR
+ or 
               
-```
-shpython3 random_password_generator.py
+```sh
+python3 random_password_generator.py
 ```
